@@ -2,6 +2,9 @@
 
 A web-based 3D game featuring a procedurally generated maze and an animated soldier character, built with Three.js.
 
+![3D Maze Game Screenshot](scn.png)
+*Screenshot of the game showing the soldier character, procedurally generated maze, and debug overlay*
+
 ## Overview
 
 This project demonstrates a 3D maze game where players control a soldier character through a procedurally generated maze environment. The game features smooth character animations, collision detection, and dynamic camera controls.
